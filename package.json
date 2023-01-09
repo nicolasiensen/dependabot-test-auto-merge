@@ -62,7 +62,7 @@
     "@types/jest": "^26.0.22",
     "@types/node": "^18.11.18",
     "@types/passport-jwt": "^3.0.8",
-    "@types/passport-local": "^1.0.34",
+    "@types/passport-local": "^1.0.35",
     "@types/request-promise": "^4.1.48",
     "@types/supertest": "^2.0.12",
     "@typescript-eslint/eslint-plugin": "^4.19.0",
