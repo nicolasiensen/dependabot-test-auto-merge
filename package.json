@@ -31,7 +31,7 @@
     "@nestjs/jwt": "^8.0.0",
     "@nestjs/passport": "^9.0.0",
     "@nestjs/platform-express": "^8.4.7",
-    "@nestjs/schedule": "^2.1.0",
+    "@nestjs/schedule": "^2.2.0",
     "@nestjs/typeorm": "^8.0.4",
     "@sentry/node": "^7.34.0",
     "@sentry/tracing": "^7.34.0",
