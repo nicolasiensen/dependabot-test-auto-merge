@@ -871,10 +871,10 @@
     semver "^7.3.5"
     tar "^6.1.11"
 
-"@nestjs/axios@0.1.2":
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/@nestjs/axios/-/axios-0.1.2.tgz#6bcfe23836d521739b4a80b0889a4a51561399bd"
-  integrity sha512-KFW37K5ujSce3lukNp9Uym5T6/oKCDw8EQRYhAKdNiBveMtotkokJwKIHVKCc21qfXMyes4291eR2No1Sf/fow==
+"@nestjs/axios@1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@nestjs/axios/-/axios-1.0.1.tgz#7a872e032b9d12037f2663a7316b81507cd7957a"
+  integrity sha512-TpoZM/0ZJ9xiC04qkRDFod93LCZ12TQARRU3ejDvBK2E8emvzM4HThOs5ePklVxce4Q1ZsnrIWqnImvoDmJYnQ==
   dependencies:
     axios "1.2.1"
 
