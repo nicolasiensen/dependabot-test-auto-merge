@@ -53,7 +53,7 @@
     "typeorm": "^0.2.37"
   },
   "devDependencies": {
-    "@nestjs/schematics": "^9.0.4",
+    "@nestjs/schematics": "^9.1.0",
     "@nestjs/testing": "^8.0.6",
     "@types/bcrypt": "^5.0.0",
     "@types/cheerio": "^0.22.31",
