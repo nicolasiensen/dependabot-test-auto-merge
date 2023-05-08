@@ -34,7 +34,7 @@
     "@nestjs/schedule": "^2.2.1",
     "@nestjs/typeorm": "^8.0.5",
     "@sentry/node": "^7.50.0",
-    "@sentry/tracing": "^7.50.0",
+    "@sentry/tracing": "^7.51.0",
     "bcrypt": "^5.1.0",
     "cheerio": "^1.0.0-rc.12",
     "class-transformer": "^0.5.1",
