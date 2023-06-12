@@ -33,7 +33,7 @@
     "@nestjs/platform-express": "^8.4.7",
     "@nestjs/schedule": "^2.2.3",
     "@nestjs/typeorm": "^8.0.5",
-    "@sentry/node": "^7.52.1",
+    "@sentry/node": "^7.54.0",
     "@sentry/tracing": "^7.54.0",
     "bcrypt": "^5.1.0",
     "cheerio": "^1.0.0-rc.12",
