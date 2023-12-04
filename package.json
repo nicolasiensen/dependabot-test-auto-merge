@@ -29,7 +29,7 @@
     "@nestjs/core": "^8.0.6",
     "@nestjs/event-emitter": "^1.4.2",
     "@nestjs/jwt": "^8.0.0",
-    "@nestjs/passport": "^9.0.3",
+    "@nestjs/passport": "^10.0.3",
     "@nestjs/platform-express": "^8.4.7",
     "@nestjs/schedule": "^2.2.3",
     "@nestjs/typeorm": "^8.0.5",
